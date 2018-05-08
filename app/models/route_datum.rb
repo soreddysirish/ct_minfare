@@ -1,0 +1,2 @@
+class RouteDatum < ApplicationRecord
+end

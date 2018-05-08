@@ -1,0 +1,5 @@
+source,destination,departure_date,min_price_60_days,currency
+RUH,JED,2018-05-16,405,SAR
+DMM,JED,2018-05-15,567,SAR
+RUH,CAI,2018-05-15,780,SAR
+JED,RUH,2018-05-15,405,SAR

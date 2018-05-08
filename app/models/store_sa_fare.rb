@@ -1,0 +1,2 @@
+class StoreSaFare < ApplicationRecord
+end

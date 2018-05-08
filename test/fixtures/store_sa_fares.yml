@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  source: MyString
+  destination: MyString
+  dep_date: 2018-03-28
+  fare: 1
+  currency: MyString
+
+two:
+  source: MyString
+  destination: MyString
+  dep_date: 2018-03-28
+  fare: 1
+  currency: MyString
